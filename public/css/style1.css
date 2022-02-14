@@ -1,0 +1,10 @@
+* {
+    background-color: #4E4E50;
+    color: #1A1A1D;
+}
+
+#form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
